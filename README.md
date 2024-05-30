@@ -2,7 +2,7 @@
 My name is Phi Ta. I am a junior Information Technology student at HCMC University of Education, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP and Computer Vision.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phi-ta-cong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/phitc163/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phi-ta-cong/)
 
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
