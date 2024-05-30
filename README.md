@@ -5,7 +5,7 @@ My name is Phi Ta. I am a junior Information Technology student at HCMC Universi
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phi-ta-cong/)
 
 
-![Phi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phitc163&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Phi Ta's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phitc163&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
